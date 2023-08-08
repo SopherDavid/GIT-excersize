@@ -3,4 +3,9 @@ hi there,
 im exercising GIT
 
 
-new lin = nwe commit
+new line = nwe commit
+
+
+and...... Another 1!!!!
+
+
